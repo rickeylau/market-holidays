@@ -1,0 +1,355 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Market Holidays//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Market Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:cboe-rth-2026-01-01@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Market Closed (RTH) - New Year's Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-01-19@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Market Closed (RTH) - Martin Luther King Jr. Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-02-16@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Market Closed (RTH) - Presidents' Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-04-03@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Market Closed (RTH) - Good Friday
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-05-25@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Market Closed (RTH) - Memorial Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-06-19@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Market Closed (RTH) - Juneteenth Holiday
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-07-03@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Market Closed (RTH) - Independence Day Observed
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-09-07@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Market Closed (RTH) - Labor Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-11-26@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Market Closed (RTH) - Thanksgiving Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-11-27@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Early Close 13:00 ET - Thanksgiving Early Close
+DESCRIPTION:Cboe holiday regular session: 09:30-13:00 ET. Expiring SPXW hal
+ f-day cutoff: 13:00 ET per product specification.\nHoliday exception for r
+ egular trading only. Global trading hours may differ. ES futures follow CM
+ E\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/about
+ /hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-prod
+ ucts/sp-500/spx-options/spx-specifications\nCME schedule: https://www.cmeg
+ roup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-12-24@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Early Close 13:00 ET - Christmas Early Close
+DESCRIPTION:Cboe holiday regular session: 09:30-13:00 ET. Expiring SPXW hal
+ f-day cutoff: 13:00 ET per product specification.\nHoliday exception for r
+ egular trading only. Global trading hours may differ. ES futures follow CM
+ E\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/about
+ /hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-prod
+ ucts/sp-500/spx-options/spx-specifications\nCME schedule: https://www.cmeg
+ roup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2026-12-25@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Market Closed (RTH) - Christmas Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-01-01@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Market Closed (RTH) - New Year's Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-01-18@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Market Closed (RTH) - Martin Luther King Jr. Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-02-15@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Market Closed (RTH) - Presidents' Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-03-26@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Market Closed (RTH) - Good Friday
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-05-31@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Market Closed (RTH) - Memorial Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-06-18@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Market Closed (RTH) - Juneteenth Observed
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-07-05@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Market Closed (RTH) - Independence Day Observed
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-09-06@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Market Closed (RTH) - Labor Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-11-25@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Market Closed (RTH) - Thanksgiving Day
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-11-26@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+SUMMARY:Early Close 13:00 ET - Thanksgiving Early Close
+DESCRIPTION:Cboe holiday regular session: 09:30-13:00 ET. Expiring SPXW hal
+ f-day cutoff: 13:00 ET per product specification.\nHoliday exception for r
+ egular trading only. Global trading hours may differ. ES futures follow CM
+ E\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/about
+ /hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-prod
+ ucts/sp-500/spx-options/spx-specifications\nCME schedule: https://www.cmeg
+ roup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cboe-rth-2027-12-24@market-holidays
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Market Closed (RTH) - Christmas Day Observed
+DESCRIPTION:Cboe U.S. options regular session: closed.\nHoliday exception f
+ or regular trading only. Global trading hours may differ. ES futures follo
+ w CME\, not this calendar.\nOfficial Cboe schedule: https://www.cboe.com/a
+ bout/hours/us-options/\nSPX specifications: https://www.cboe.com/tradable-
+ products/sp-500/spx-options/spx-specifications\nCME schedule: https://www.
+ cmegroup.com/trading-hours.html
+URL:https://www.cboe.com/about/hours/us-options/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
